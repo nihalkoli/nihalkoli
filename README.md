@@ -69,7 +69,7 @@ Mongodb, Javascript, etc 💻.
 Always Equal in Javascript. -
  📫 How to reach me: nihalmaneshkoli@gmail.com -
  📝
-[Resume](https://github.com/mPooja-15/mPooja-15/blob/master/Resume.pdf)
+[Resume](https://github.com/nihalkoli/nihalkoli/blob/main/nihal%20koli.pdf)
 
 
 <hr />
