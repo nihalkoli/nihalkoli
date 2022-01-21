@@ -116,7 +116,7 @@ Always Equal in Javascript. -
   height="250"
   width="375"
   alt="coder"
-  src="https://raw.githubusercontent.com/nihalkoli/nihalkoli/coder.gif"
+  src="https://github.com/nihalkoli/nihalkoli/blob/main/coder.gif"
 />
 
 <h3 align="left">Languages and Tools:</h3>
