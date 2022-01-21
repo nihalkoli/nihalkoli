@@ -33,7 +33,7 @@
 <a href="https://www.instagram.com/koli_nihaal_official/">
   <img
     align="left"
-    alt="pooja's Instagram"
+    alt="Nihal's Instagram"
     width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"
   />
@@ -85,14 +85,14 @@ Always Equal in Javascript. -
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mPooja-15&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=nihalkoli&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
     alt="ovi"
   />
 </p>
 <p>
   &nbsp;<img
     align="right"
-    src="https://github-readme-stats.vercel.app/api?username=mPooja-15&show_icons=true&locale=en&theme=chartreuse-dark"
+    src="https://github-readme-stats.vercel.app/api?username=nihalkoli&show_icons=true&locale=en&theme=chartreuse-dark"
     alt="ovi"
     width="410"
   />
@@ -116,7 +116,7 @@ Always Equal in Javascript. -
   height="250"
   width="375"
   alt="coder"
-  src="https://raw.githubusercontent.com/mPooja-15/mPooja-15/p/coder.gif"
+  src="https://raw.githubusercontent.com/nihalkoli/nihalkoli/p/coder.gif"
 />
 
 <h3 align="left">Languages and Tools:</h3>
